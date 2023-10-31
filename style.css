@@ -46,6 +46,8 @@ body{
    transition: 1s;
 }
 
+/*-----start here
+
 img{
     max-width: 100%;
 }
@@ -54,3 +56,4 @@ img{
     align-self: flex-start;
     display: flex;
 }
+--------------*/
